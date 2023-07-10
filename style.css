@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.heading-1{
+    font-size: 55px;
+    font-weight: bold;
+    padding-bottom: 25px;
+}
+.paragraph-1{
+    width: 50%;
+    padding-bottom: 25px;
+}
+.button-1{
+    background-color: rgba(230, 34, 99, 0.915);
+    padding: 15px 25px 15px 25px;
+    border: none;
+    border-radius: 5px;
+    color:white;
+}
+.header{
+    background-color: rgb(255, 232, 236);
+}
+.banner-container{
+  
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.left-container{
+    padding-left: 200px;
+}
+.img-1{
+padding-top: 50px;
+padding-right: 200px;
+width: 500px;
+}
