@@ -11,6 +11,7 @@
 .paragraph-1{
     width: 50%;
     padding-bottom: 25px;
+    color: gray;
 }
 .button-1{
     background-color: rgba(230, 34, 99, 0.915);
@@ -55,4 +56,53 @@ height: 350px;
 }
 .heading-2, .paragraph-2{
     padding-bottom: 15px;
+}
+.Instagram{
+    text-align: center;
+    padding-top: 80px;
+   
+}
+.headline-3{
+    font-weight: bold;
+}
+.paragraph-3{
+    padding-top: 20px;
+    color: gray;
+    padding-bottom: 30px;
+}
+.paragraph-2{
+    color: gray;
+}
+.image-content{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    gap: 10px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+.image-1, .image-2, .image-3, .image-4{
+    width: 100%;
+}
+.img-size{
+    width: 80%;
+    text-align: center;
+}
+.offers{
+    text-align: center;
+    padding-bottom: 100px;
+}
+.description{
+    text-align: center;
+    margin-top: -400px;
+}
+.headline-5{
+    font-size: 35px;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+.paragraph-4{
+    color: gray;
+    padding-bottom: 30px;
 }
