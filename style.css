@@ -20,7 +20,7 @@
     color:white;
 }
 .header{
-    background-color: rgb(255, 232, 236);
+    background-color: rgba(255, 232, 236, 0.992);
 }
 .banner-container{
   
@@ -36,4 +36,23 @@
 padding-top: 50px;
 padding-right: 200px;
 width: 500px;
+}
+.body-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 180px;
+}
+.body{
+    background-color:rgba(255, 232, 236, 0.695) ;
+
+}
+.img-2{
+    width: 250px;
+height: 350px;
+   padding-top: 100px;
+   padding-bottom: 100px;
+}
+.heading-2, .paragraph-2{
+    padding-bottom: 15px;
 }
