@@ -232,3 +232,7 @@ border-radius: 300px 300px 0px 0px;
     margin-left: 50%;
     margin-bottom: 60px;
 }
+.button-2:hover{
+    color: blue;
+    cursor: pointer;
+}
