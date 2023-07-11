@@ -201,3 +201,34 @@ border-radius: 300px 300px 0px 0px;
     font-size: larger;
     font-weight: bold;
 }
+#New-arrival{
+    padding-top: 40px;
+    text-align: center;
+    font-size: 55px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif      
+}
+.arrival-items{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 80px;
+}
+.new-item-1, .new-item-2, .new-item-3, .new-item-4, .new-item-5{
+    text-align:center ;
+    padding-bottom: 5px;
+}
+#sale{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 10px;
+    color: rgba(230, 34, 99, 0.7);
+}
+.button-2{
+    background-color: rgba(230, 34, 99, 0.915);
+    border: none;
+    border-radius: 5px;
+    padding: 15px 25px 15px 25px;
+    color:white;
+    margin-left: 50%;
+    margin-bottom: 60px;
+}
